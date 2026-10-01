@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sufyan Mohammed Farooq</title>
+  <desc id="desc">Technology for real business needs. A blue banner with a geometric path motif.</desc>
+  <rect width="1280" height="360" rx="20" fill="#1452dc"/>
+  <g fill="none" stroke="#5484ee" stroke-width="2">
+    <path d="M1010 0v80h130v140h140"/>
+    <path d="M1100 0v40h80v130h100"/>
+    <path d="M940 360v-70h140V150h200"/>
+    <path d="M1010 360v-30h130V250h140"/>
+  </g>
+  <g fill="#bdd2ff">
+    <circle cx="1010" cy="80" r="6"/>
+    <circle cx="1140" cy="220" r="6"/>
+    <circle cx="1080" cy="290" r="6"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="68" font-size="15" font-weight="700" letter-spacing="3" fill="#c6d8ff">SUFYAN MOHAMMED FAROOQ</text>
+    <text x="60" y="153" font-size="58" font-weight="700" letter-spacing="-2" fill="#ffffff">Technology for</text>
+    <text x="60" y="222" font-size="58" font-weight="700" letter-spacing="-2" fill="#ffffff">real business needs.</text>
+    <path d="M64 267h44" stroke="#b9d0ff" stroke-width="3"/>
+    <text x="124" y="273" font-size="17" fill="#d9e5ff">SOFTWARE / SYSTEMS / PEOPLE</text>
+    <text x="64" y="326" font-size="14" fill="#c6d8ff">JEDDAH, SAUDI ARABIA</text>
+    <text x="1216" y="326" text-anchor="end" font-size="14" fill="#c6d8ff">sufyan.website ↗</text>
+  </g>
+</svg>
