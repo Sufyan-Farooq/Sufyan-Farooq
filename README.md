@@ -137,7 +137,7 @@ Senior Onsite Support Engineer on university learning platforms.
 <!-- SHIPPED:START -->
 | Repo | Latest commit | Date |
 |---|---|---|
-| [sufyanfarooq.com](https://github.com/Sufyan-Farooq/sufyanfarooq.com) | [Make the site client-first and add Qaswa AI](https://github.com/Sufyan-Farooq/sufyanfarooq.com/commit/444acffeeca5b31ee5d8989c5d607545312fad96) | 2026-11-02 |
+| [sufyanfarooq.com](https://github.com/Sufyan-Farooq/sufyanfarooq.com) | [Add Arabic version, WhatsApp button, share image and FAQ](https://github.com/Sufyan-Farooq/sufyanfarooq.com/commit/47ee0ddbda2228af3cf32c1877463065f928948a) | 2026-11-11 |
 | [TurnUp.io](https://github.com/Sufyan-Farooq/TurnUp.io) | [Cap memory for turnup containers on Oracle](https://github.com/Sufyan-Farooq/TurnUp.io/commit/a47bedf4d6a1a54a2b226b095da3450290400a03) | 2026-10-28 |
 | [Mawarith](https://github.com/Sufyan-Farooq/Mawarith) | [Remove AI advisor and add Docker deployment](https://github.com/Sufyan-Farooq/Mawarith/commit/d89f8aee8e9de27e5f2fc3d6b31a81f84dd3c4f2) | 2026-09-27 |
 | [Riyasat](https://github.com/Sufyan-Farooq/Riyasat) | [Fix password recovery and add Google sign-in](https://github.com/Sufyan-Farooq/Riyasat/commit/73f20087a93c878ca1d34f6e499d59e920ad4e23) | 2026-10-07 |
