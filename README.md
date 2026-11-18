@@ -137,11 +137,11 @@ Senior Onsite Support Engineer on university learning platforms.
 <!-- SHIPPED:START -->
 | Repo | Latest commit | Date |
 |---|---|---|
+| [lindecorrotech](https://github.com/Sufyan-Farooq/lindecorrotech) | [Make light mode fully light and put the full logo in the footer](https://github.com/Sufyan-Farooq/lindecorrotech/commit/fe3a86af9ca5833d8b01520a57da432dd2f38532) | 2026-11-17 |
 | [sufyanfarooq.com](https://github.com/Sufyan-Farooq/sufyanfarooq.com) | [Drop saved incidents for services no longer monitored](https://github.com/Sufyan-Farooq/sufyanfarooq.com/commit/0733a0a9323be448c91beaae99c27e2831dafe37) | 2026-11-13 |
 | [TurnUp.io](https://github.com/Sufyan-Farooq/TurnUp.io) | [Cap memory for turnup containers on Oracle](https://github.com/Sufyan-Farooq/TurnUp.io/commit/a47bedf4d6a1a54a2b226b095da3450290400a03) | 2026-10-28 |
 | [Mawarith](https://github.com/Sufyan-Farooq/Mawarith) | [Remove AI advisor and add Docker deployment](https://github.com/Sufyan-Farooq/Mawarith/commit/d89f8aee8e9de27e5f2fc3d6b31a81f84dd3c4f2) | 2026-09-27 |
 | [Riyasat](https://github.com/Sufyan-Farooq/Riyasat) | [Fix password recovery and add Google sign-in](https://github.com/Sufyan-Farooq/Riyasat/commit/73f20087a93c878ca1d34f6e499d59e920ad4e23) | 2026-10-07 |
-| [far-and-found-travel-template](https://github.com/Sufyan-Farooq/far-and-found-travel-template) | [Expand featured destinations and lower WhatsApp button](https://github.com/Sufyan-Farooq/far-and-found-travel-template/commit/cfc8dbcf3da418e394363eac0f4796cf6b8feafc) | 2026-09-28 |
 <!-- SHIPPED:END -->
 
 <sub>BCA, Osmania University (2025) · MBA in progress · Arabic, English, Hindi, Urdu · Jeddah, open to relocating</sub>
