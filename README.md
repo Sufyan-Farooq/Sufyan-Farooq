@@ -137,7 +137,7 @@ Senior Onsite Support Engineer on university learning platforms.
 <!-- SHIPPED:START -->
 | Repo | Latest commit | Date |
 |---|---|---|
-| [lindecorrotech](https://github.com/Sufyan-Farooq/lindecorrotech) | [Make light mode fully light and put the full logo in the footer](https://github.com/Sufyan-Farooq/lindecorrotech/commit/fe3a86af9ca5833d8b01520a57da432dd2f38532) | 2026-11-17 |
+| [lindecorrotech](https://github.com/Sufyan-Farooq/lindecorrotech) | [Update second phone number to +966 55 728 0630](https://github.com/Sufyan-Farooq/lindecorrotech/commit/df3f4ea33221dd6e4584d49f7815467bfa9ad994) | 2026-11-19 |
 | [sufyanfarooq.com](https://github.com/Sufyan-Farooq/sufyanfarooq.com) | [Drop saved incidents for services no longer monitored](https://github.com/Sufyan-Farooq/sufyanfarooq.com/commit/0733a0a9323be448c91beaae99c27e2831dafe37) | 2026-11-13 |
 | [TurnUp.io](https://github.com/Sufyan-Farooq/TurnUp.io) | [Cap memory for turnup containers on Oracle](https://github.com/Sufyan-Farooq/TurnUp.io/commit/a47bedf4d6a1a54a2b226b095da3450290400a03) | 2026-10-28 |
 | [Mawarith](https://github.com/Sufyan-Farooq/Mawarith) | [Remove AI advisor and add Docker deployment](https://github.com/Sufyan-Farooq/Mawarith/commit/d89f8aee8e9de27e5f2fc3d6b31a81f84dd3c4f2) | 2026-09-27 |
