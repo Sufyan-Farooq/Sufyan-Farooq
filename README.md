@@ -137,8 +137,8 @@ Senior Onsite Support Engineer on university learning platforms.
 <!-- SHIPPED:START -->
 | Repo | Latest commit | Date |
 |---|---|---|
+| [sufyanfarooq.com](https://github.com/Sufyan-Farooq/sufyanfarooq.com) | [Rebuild the site on Vite with GSAP, Three.js and Lenis](https://github.com/Sufyan-Farooq/sufyanfarooq.com/commit/fc982f09e9ea8d9dae02367184a76716bd44228f) | 2026-11-22 |
 | [lindecorrotech](https://github.com/Sufyan-Farooq/lindecorrotech) | [Update second phone number to +966 55 728 0630](https://github.com/Sufyan-Farooq/lindecorrotech/commit/df3f4ea33221dd6e4584d49f7815467bfa9ad994) | 2026-11-19 |
-| [sufyanfarooq.com](https://github.com/Sufyan-Farooq/sufyanfarooq.com) | [Drop saved incidents for services no longer monitored](https://github.com/Sufyan-Farooq/sufyanfarooq.com/commit/0733a0a9323be448c91beaae99c27e2831dafe37) | 2026-11-13 |
 | [TurnUp.io](https://github.com/Sufyan-Farooq/TurnUp.io) | [Cap memory for turnup containers on Oracle](https://github.com/Sufyan-Farooq/TurnUp.io/commit/a47bedf4d6a1a54a2b226b095da3450290400a03) | 2026-10-28 |
 | [Mawarith](https://github.com/Sufyan-Farooq/Mawarith) | [Remove AI advisor and add Docker deployment](https://github.com/Sufyan-Farooq/Mawarith/commit/d89f8aee8e9de27e5f2fc3d6b31a81f84dd3c4f2) | 2026-09-27 |
 | [Riyasat](https://github.com/Sufyan-Farooq/Riyasat) | [Fix password recovery and add Google sign-in](https://github.com/Sufyan-Farooq/Riyasat/commit/73f20087a93c878ca1d34f6e499d59e920ad4e23) | 2026-10-07 |
